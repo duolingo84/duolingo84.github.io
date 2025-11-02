@@ -1,0 +1,60 @@
+{
+  "version": "1.0",
+  "portals": [
+    {
+      "name": "TV NO MAR 🌊",
+      "url": "https://bolarus.caravela.vip/service",
+      "loginRequired": false,
+      "userName": null,
+      "userPassword": null,
+      "epgMode": 1,
+      "epgOffset": 12,
+      "groupChannelNumbering": false,
+      "prefixMac": "001A79"
+    },
+    {
+      "name": "TV NA MONTANHA⛰️",
+      "url": "http://kh1980.net/c",
+      "loginRequired": false,
+      "userName": null,
+      "userPassword": null,
+      "epgMode": 1,
+      "epgOffset": 12,
+      "groupChannelNumbering": false,
+      "prefixMac": "001A79"
+    },
+    {
+      "name": "TV DE FÉRIAS 🌴",
+      "url": "http://pardaleco.xyz:8080/c/",
+      "loginRequired": false,
+      "userName": null,
+      "userPassword": null,
+      "epgMode": 1,
+      "epgOffset": 12,
+      "groupChannelNumbering": false,
+      "prefixMac": "001A79"
+    },
+    {
+      "name": "TV NO MAR 🌊☎️📞",
+      "url": "https://bolarus.caravela.vip",
+      "loginRequired": true,
+      "userName": "CLIENTE01",
+      "userPassword": "PASS01",
+      "epgMode": 1,
+      "epgOffset": 12,
+      "groupChannelNumbering": false,
+      "prefixMac": "001A79"
+    },
+    {
+      "name": "TV DE FÉRIAS 🌴 ☎️📞",
+      "url": "http://pardaleco.xyz:8080",
+      "loginRequired": true,
+      "userName": "CLIENTE02",
+      "userPassword": "PASS02",
+      "epgMode": 1,
+      "epgOffset": 12,
+      "groupChannelNumbering": false,
+      "prefixMac": "001A79"
+    }
+  ]
+}
