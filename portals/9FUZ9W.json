@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "portals": [
+    {
+      "name": "teste888",
+      "url": "https://silvermoon.caravela.vip",
+      "loginRequired": true,
+      "userName": "teste",
+      "userPassword": "teste",
+      "epgMode": 0,
+      "epgUrl": "",
+      "epgOffset": 0,
+      "groupChannelNumbering": false,
+      "prefixMac": "001A79"
+    }
+  ]
+}
